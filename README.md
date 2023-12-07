@@ -5,7 +5,7 @@
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRdSimeao&show_icons=true&theme=dracula)
 
-### Tecnologias que uso no dia a dia:
+## Tecnologias que uso no dia a dia:
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,discord)](https://skillicons.dev)
